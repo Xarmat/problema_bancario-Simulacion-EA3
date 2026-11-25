@@ -1,5 +1,10 @@
 # Simulación del problema bancario
 
+**Estudiante:** Pablo Martínez Ortiz
+**Asignatura:** Simulación
+**Programa académico:** Ingeniería de Software y Datos
+**Año:** 2026 - S2
+
 ## Contexto
 
 Este ejercicio analiza el funcionamiento de las cajas de un banco que atiende dos operaciones: retiros y pagos o consignaciones. El objetivo es comparar distintas distribuciones de cajeros y observar su efecto sobre los tiempos de espera y la atención de los usuarios.
