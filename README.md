@@ -1,8 +1,8 @@
 # Simulación del problema bancario
 
-**Estudiante:** Pablo Martínez Ortiz
-**Asignatura:** Simulación
-**Programa académico:** Ingeniería de Software y Datos
+**Estudiante:** Pablo Martínez Ortiz\
+**Asignatura:** Simulación\
+**Programa académico:** Ingeniería de Software y Datos\
 **Año:** 2026 - S2
 
 ## Contexto
